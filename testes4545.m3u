@@ -1,4 +1,11 @@
 
+#EXTM3U
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OKzcwdSg7P8/maxresdefault.jpg" group-title="FILMES",testes
 https://stmv1.srvif.com:1443/play.php?login=tvserie&video=STARTREK_T1/TV%20SERIE%20-%20STAR%20TREK%201T%20EP%2000.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OKzcwdSg7P8/maxresdefault.jpg" group-title="FILMES",testes 01
+
+https://stmv1.srvif.com:1443/play.php?login=tvserie&video=STARTREK_T1/TV%20SERIE%20-%20STAR%20TREK%201T%20EP%2014.mp4
 #EXTM3U
