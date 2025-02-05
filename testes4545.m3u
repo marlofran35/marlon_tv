@@ -1,7 +1,4 @@
-#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OKzcwdSg7P8/maxresdefault.jpg" group-title="FILMES",PERSEGUINDO O ASSASSINO
-https://cdn-vod-1.nxplay.com.br/hls/movies/769ed900-aebd-41c9-915b-769c8a8135fa/media_,0,1,2,.mp4.urlset/master.m3u8
-https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OKzcwdSg7P8/maxresdefault.jpg" group-title="FILMES",testes
+https://stmv1.srvif.com:1443/play.php?login=tvserie&video=STARTREK_T1/TV%20SERIE%20-%20STAR%20TREK%201T%20EP%2000.mp4
 #EXTM3U
