@@ -1161,6 +1161,9 @@ https://stmv1.srvif.com:1443/play.php?login=tvserie&video=STARTREK_T1/TV%20SERIE
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/242631882/s718/temporada-1.jpg" group-title="SÉRIE STAR TREK  1 TEMPORADA",T1 E4
 https://stmv1.srvif.com:1443/play.php?login=tvserie&video=STARTREK_T1/TV%20SERIE%20-%20STAR%20TREK%201T%20EP%2000.mp4
 
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/242631882/s718/temporada-1.jpg" group-title="SÉRIE STAR TREK  1 TEMPORADA",TESTES 100
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/7873.ts
 
 
 #EXTM3U
