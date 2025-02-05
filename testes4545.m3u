@@ -3,6 +3,8 @@
 
 CANAIS DE NOTICIAS
 
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://auvaromaia.com/wp-content/uploads/2016/09/Globo-News.png" group-title="NOTÍCIAS",GLOBO NEWS FHD
+https://super-cdn.link/globonews/index.m3u8
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/4dfmnBs.png" group-title="NOTÍCIAS",CNN BRASIL FHD
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
 #EXTINF:-1 tvg-id="1001Noites.br" tvg-logo="https://kub.sh/02328c" group-title="NOTÍCIAS",africa NOTÍCIAS
@@ -1166,11 +1168,4 @@ https://stmv1.srvif.com:1443/play.php?login=tvserie&video=STARTREK_T1/TV%20SERIE
 http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/7873.ts
 
 #EXTM3U
-	
-
-
-
-
-
-
 	
