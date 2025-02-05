@@ -452,7 +452,8 @@ TV ABERTA BR
 https://cr7v.short.gy/ManoiTV/BBB01/index.m3u8
 
 
-
+#EXTINF:-1 tvg-id="TvNovaNordeste.br" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg" group-title="TV ABERTA",RECORD NEWS HD
+https://super-cdn.link/bandnews/index.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP SD
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
@@ -1161,9 +1162,6 @@ https://stmv1.srvif.com:1443/play.php?login=tvserie&video=STARTREK_T1/TV%20SERIE
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/242631882/s718/temporada-1.jpg" group-title="SÉRIE STAR TREK  1 TEMPORADA",T1 E4
 https://stmv1.srvif.com:1443/play.php?login=tvserie&video=STARTREK_T1/TV%20SERIE%20-%20STAR%20TREK%201T%20EP%2000.mp4
 
-#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/242631882/s718/temporada-1.jpg" group-title="SÉRIE STAR TREK  1 TEMPORADA",TESTES 100
-
-http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/7873.ts
 
 
 #EXTM3U
