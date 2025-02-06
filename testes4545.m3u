@@ -1082,9 +1082,46 @@ https://stmv1.srvif.com:1443/play.php?login=tvserie&video=STARTREK_T1/TV%20SERIE
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/242631882/s718/temporada-1.jpg" group-title="SÉRIE STAR TREK  1 TEMPORADA",T1 E28
 https://stmv1.srvif.com:1443/play.php?login=tvserie&video=STARTREK_T1/TV%20SERIE%20-%20STAR%20TREK%201T%20EP%2028.mp4
 
-#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/242631882/s718/temporada-1.jpg" group-title="SÉRIE ARQUIVO X 1 TEMPORADA",T1 E1
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/08/17/16/40/4954901.jpg" group-title="SÉRIE FAMILIA DINOSSAURO 1 & 2 TEMPORADA",T1 E1
+https://stmv1.srvif.com:1443/play.php?login=tvserie&video=FAMILIA-DINOSSAURO-1T/01.%20O%20Poderoso%20Megalossauro.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/08/17/16/40/4954901.jpg" group-title="SÉRIE FAMILIA DINOSSAURO 1 & 2 TEMPORADA",T1 E2
+https://stmv1.srvif.com:1443/play.php?login=tvserie&video=FAMILIA-DINOSSAURO-1T/02.%20A%20Danca%20do%20Acasalamento.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/08/17/16/40/4954901.jpg" group-title="SÉRIE FAMILIA DINOSSAURO 1 & 2 TEMPORADA",T1 E3
+https://stmv1.srvif.com:1443/play.php?login=tvserie&video=FAMILIA-DINOSSAURO-1T/03.%20O%20Dia%20do%20Arremesso.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/08/17/16/40/4954901.jpg" group-title="SÉRIE FAMILIA DINOSSAURO 1 & 2 TEMPORADA",T1 E4
+https://stmv1.srvif.com:1443/play.php?login=tvserie&video=FAMILIA-DINOSSAURO-1T/04.%20O%20Grande%20Duelo.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/08/17/16/40/4954901.jpg" group-title="SÉRIE FAMILIA DINOSSAURO 1 & 2 TEMPORADA",T1 E5
+https://stmv1.srvif.com:1443/play.php?login=tvserie&video=FAMILIA-DINOSSAURO-1T/05.%20O%20Dia%20do%20Uivo.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/08/17/16/40/4954901.jpg" group-title="SÉRIE FAMILIA DINOSSAURO 1 & 2 TEMPORADA",T2 E1
+https://stmv1.srvif.com:1443/play.php?login=tvserie&video=FAMILIA-DINOSSAURO-2T/01%20A%20Crianca%20Dourada.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/08/17/16/40/4954901.jpg" group-title="SÉRIE FAMILIA DINOSSAURO 1 & 2 TEMPORADA",T2 E2
+https://stmv1.srvif.com:1443/play.php?login=tvserie&video=FAMILIA-DINOSSAURO-2T/02%20Desafio%20Entre%20Familias.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/08/17/16/40/4954901.jpg" group-title="SÉRIE FAMILIA DINOSSAURO 1 & 2 TEMPORADA",T2 E3
+https://stmv1.srvif.com:1443/play.php?login=tvserie&video=FAMILIA-DINOSSAURO-2T/03%20Carnivoro%20Nao.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/08/17/16/40/4954901.jpg" group-title="SÉRIE FAMILIA DINOSSAURO 1 & 2 TEMPORADA",T2 E4
+https://stmv1.srvif.com:1443/play.php?login=tvserie&video=FAMILIA-DINOSSAURO-2T/04%20A%20Cauda%20de%20Charlene.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/08/17/16/40/4954901.jpg" group-title="SÉRIE FAMILIA DINOSSAURO 1 & 2 TEMPORADA",T2 E5
+https://stmv1.srvif.com:1443/play.php?login=tvserie&video=FAMILIA-DINOSSAURO-2T/05%20Especie%20em%20Extincao.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/08/17/16/40/4954901.jpg" group-title="SÉRIE FAMILIA DINOSSAURO 1 & 2 TEMPORADA",T2 E6
+https://stmv1.srvif.com:1443/play.php?login=tvserie&video=FAMILIA-DINOSSAURO-2T/06%20O%20Empregado%20do%20Mes.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/08/17/16/40/4954901.jpg" group-title="SÉRIE FAMILIA DINOSSAURO 1 & 2 TEMPORADA",T2 E7
+https://stmv1.srvif.com:1443/play.php?login=tvserie&video=FAMILIA-DINOSSAURO-2T/07%20Quando%20a%20Comida%20Fica%20Ruim.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/08/17/16/40/4954901.jpg" group-title="SÉRIE FAMILIA DINOSSAURO 1 & 2 TEMPORADA",T2 E8
+https://stmv1.srvif.com:1443/play.php?login=tvserie&video=FAMILIA-DINOSSAURO-2T/08%20Oportunidades%20de%20Carreira.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/08/17/16/40/4954901.jpg" group-title="SÉRIE FAMILIA DINOSSAURO 1 & 2 TEMPORADA",T2 E9
+https://stmv1.srvif.com:1443/play.php?login=tvserie&video=FAMILIA-DINOSSAURO-2T/09%20Solteiro%20com%20Filhos.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/08/17/16/40/4954901.jpg" group-title="SÉRIE FAMILIA DINOSSAURO 1 & 2 TEMPORADA",T2 E10
+https://stmv1.srvif.com:1443/play.php?login=tvserie&video=FAMILIA-DINOSSAURO-2T/10%20Como%20Conquistar%20As%20Garotas.mp4
 
-https://drive.google.com/file/d/1wWXM09T9ZL-_wu0mSyYzX_Nr5o-tvACz/preview
+
+
+
+
+
+
+
+
+
 
 
 
