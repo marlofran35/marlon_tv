@@ -332,6 +332,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="63eb9fdda995710008991c54" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="TV 24 HORAS",NCIS Naval
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="63eb9fdda995710008991c54" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="TV 24 HORAS",Batman a Série Animada
+http://127.0.0.1:11943/stream
+
 #EXTINF:-1 tvg-id="62052d3b4eeb740007fbe125" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="TV 24 HORAS",O homem que veio do céu
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="609ae66b359b270007869ff1" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="TV 24 HORAS",South Park
@@ -1139,12 +1143,22 @@ http://domain001.pvodseth.cc/series/c6wPtDmPTS/nzUQBDAsJA/543eec5c-5539-4de7-a9c
 #EXTINF:-1 tvg-id="" tvg-name="Friends S1 E1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg" group-title="Friends",Friends S1 EPISODIOS ALEATORIOS
 http://domain001.pvodseth.cc/series/c6wPtDmPTS/nzUQBDAsJA/cdc94672-ee1c-4daa-9873-2f7e8718e034.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Friends S1 E1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg" group-title="Friends",Friends canais redecanais
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/638400.ts
 
 
 
+TOP CINE MARLON
 
+#EXTINF:-1 tvg-id="" tvg-name="Curtindo a Vida Adoidado" tvg-logo="http://imagecdn.sh:80/images/ca1D6Pz9pGxPtCSMUodM6jIfbSp_big.jpg" group-title="LISTA TOP CINE FILMES",Curtindo a Vida Adoidado
+http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/651906.mp4
 
-
+#EXTINF:-1 tvg-id="" tvg-name="De Volta para o Futuro 2" tvg-logo="http://imagecdn.sh:80/images/dAAnK6EUBDUpM9H5EBfYV3GmtC1_big.jpg" group-title="LISTA TOP CINE FILMES",De Volta para o Futuro 2
+http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/646915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Volta para o Futuro" tvg-logo="http://imagecdn.sh:80/images/i996T0lI1fGtFEowiH3V6eZthL0_big.jpg" group-title="LISTA TOP CINE FILMES",De Volta para o Futuro
+http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/646914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Volta para o Futuro 3" tvg-logo="http://imagecdn.sh:80/images/yjSqXqdpaa6ECsiIQxW44ye0qAc_big.jpg" group-title="LISTA TOP CINE FILMES",De Volta para o Futuro 3
+http://hubby.run:80/movie/openbox-vods/gUWmWacQeq/646913.mp4
 
 
 
